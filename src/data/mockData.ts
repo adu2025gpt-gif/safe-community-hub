@@ -41,14 +41,14 @@
    'Al Maryah Island',
  ];
  
- export const mockUser: User = {
-   id: '1',
-   name: 'Ahmed Al Mansouri',
-   neighborhood: 'Al Ain District',
-   contributionScore: 847,
-   reportsSubmitted: 23,
-   reportsResolved: 18,
- };
+export const mockUser: User = {
+  id: '1',
+  name: 'Mukesh',
+  neighborhood: 'Al Ain District',
+  contributionScore: 847,
+  reportsSubmitted: 23,
+  reportsResolved: 18,
+};
  
  export const mockReports: Report[] = [
    {
